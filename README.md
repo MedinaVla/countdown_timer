@@ -6,4 +6,4 @@ Countdown Flutter Project.
 
 This is a project to learn flutter_bloc 
 
-https://github.com/MedinaVla/countdown_timer/blob/master/screenshot/countdown_bloc.gif
+![alt text](https://github.com/MedinaVla/countdown_timer/blob/master/screenshot/countdown_bloc.gif)
